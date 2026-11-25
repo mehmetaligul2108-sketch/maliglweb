@@ -1,0 +1,16 @@
+# Mehmet Ali Gül – Kişisel Web Sitesi
+
+> Akdeniz Üniversitesi Bilgisayar Programcılığı 1. sınıf öğrencisi Mehmet Ali Gül'ün kişisel tanıtım sitesi. Web Tasarımının Temelleri dersi vize projesi. Türkçe ve İngilizce.
+
+## Sayfalar
+- [Anasayfa](https://maliglweb.netlify.app/): tanıtım, proje ve galeri önizlemeleri, 3D Antalya haritası
+- [Hakkımda](https://maliglweb.netlify.app/hakkimda.html): özgeçmiş, eğitim, yetenekler (yüzde), ilgi alanları, ders programı
+- [Projeler](https://maliglweb.netlify.app/projeler.html): Grafik Animasyon I dersi 6 Photoshop çalışması (önce/sonra)
+- [Blog](https://maliglweb.netlify.app/blog.html): Photoshop Smart Object, React + Vite ile site kurulumu, GSAP ve Lenis ile kaydırma animasyonları
+- [Galeri](https://maliglweb.netlify.app/galeri.html): beni anlatan 10 fotoğraf ve açıklamaları
+- [İletişim](https://maliglweb.netlify.app/iletisim.html): adres, telefon, e-posta, Instagram ve iletişim formu
+
+## Kişi
+- Ad: Mehmet Ali Gül
+- Okul: Akdeniz Üniversitesi, Bilgisayar Programcılığı
+- Şehir: Antalya
